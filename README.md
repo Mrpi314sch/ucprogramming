@@ -8,4 +8,6 @@ width=250>
 <br>
 <br>
 UCode programming is a company that makes free software that you can use mainly on a raspberry pi. It is a compilation of Mrpi314tech's projects.
-<iframe src="https://www.online-python.com/LsgmZpqlaC"></iframe>
+<br>
+<iframe src="https://www.online-python.com/LsgmZpqlaC"
+width=1000></iframe>
